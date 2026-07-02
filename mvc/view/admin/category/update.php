@@ -50,7 +50,7 @@ include 'view/admin/nav.php';
             }
         })
         .catch(error => {
-            console.error('Lỗi khi gọi API:', error);
+            console.error('error', error);
             alert("Đã xảy ra lỗi hệ thống khi cập nhật danh mục!");
         });
     });
