@@ -20,7 +20,7 @@ include 'view/admin/nav.php';
         ?>
                 <div class="info-detail">
                     <h3>Người gần mua: <?= $dh_nameUser ?></h3>
-                    <p>Số điện thoại: <?= $dh_phoneUser ?></p>
+                    <p>số liên lạc: <?= $dh_phoneUser ?></p>
                     <p>Tài khoản: <?php foreach ($list_account as $acc) {
                                         extract($acc);
                                         if ($id_tk == $tk_id) {
