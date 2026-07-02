@@ -2,7 +2,7 @@
 include 'view/admin/nav.php';
 ?>
 <article>
-    <h1>Danh Sách Tài Khoản</h1>
+    <h1>LIST Tài Khoản </h1>
     <div class="container-list">
         <form action="">
             <table class="table">
