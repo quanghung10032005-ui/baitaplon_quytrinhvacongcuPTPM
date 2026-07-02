@@ -19,7 +19,7 @@ include 'view/admin/nav.php';
             if ($dh_id == $_GET['dhid']) {
         ?>
                 <div class="info-detail">
-                    <h3>Người gần mua: <?= $dh_nameUser ?></h3>
+                    <h3>Người mua: <?= $dh_nameUser ?></h3>
                     <p>Số điện thoại: <?= $dh_phoneUser ?></p>
                     <p>Tài khoản: <?php foreach ($list_account as $acc) {
                                         extract($acc);
