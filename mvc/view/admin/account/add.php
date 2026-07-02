@@ -11,7 +11,7 @@ include 'view/admin/nav.php';
             <label for="pass">Mật khẩu:</label>
             <input type="password" id="pass" name="pass" required>
 
-            <label for="email">Email:</label>
+            <label for="Địa chỉ email">Email:</label>
             <input type="email" id="email" name="email" required>
 
             <label for="address">Địa chỉ:</label>
