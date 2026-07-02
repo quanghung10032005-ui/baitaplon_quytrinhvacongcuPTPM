@@ -2,10 +2,10 @@
 include 'view/admin/nav.php';
 ?>
 <article>
-    <div class="container-add">
+    <div class="container-add" >
         <h1>Thêm Danh mục</h1>
       <form id="addCategoryForm">
-            <input type="text" name="name" id="">
+            <input type="text" name="name" id="" placeholder="Nhập tên danh mục" required>
             <div class="return">
                 <button name="submit" type="submit">Thêm danh Mục</button>
                 <a href="?act=admin&admin=categoryList">Quay lại</a>
