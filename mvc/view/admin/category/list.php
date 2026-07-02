@@ -7,7 +7,7 @@ include 'view/admin/nav.php';
         <table class="table">
             <thead>
                 <tr>
-                    <th>STT</th>
+                    <th>Stt</th>
                     <th>Name</th>
                     <th>Tác Vụ</th>
                 </tr>
