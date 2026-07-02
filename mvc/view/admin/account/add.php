@@ -8,7 +8,7 @@ include 'view/admin/nav.php';
             <label for="user">Tên tài khoản:</label>
             <input type="text" id="user" name="user" required>
 
-            <label for="pass">Mật khẩu:</label>
+            <label for="pass">Nhập Mật khẩu:</label>
             <input type="password" id="pass" name="pass" required>
 
             <label for="Địa chỉ email">Email:</label>
