@@ -19,7 +19,7 @@ include 'view/admin/nav.php';
             <label for="address">Địa chỉ:</label>
             <input type="text" id="address" name="address" value="<?= $tk_address ?>" required>
 
-            <label for="id_role">Role:</label>
+            <label for="id_role">Vai tro:</label>
             <select id="id_role" name="id_role" required>
                 <option value="">Chọn role</option>
                 <?php foreach ($list_role as $role): ?>
