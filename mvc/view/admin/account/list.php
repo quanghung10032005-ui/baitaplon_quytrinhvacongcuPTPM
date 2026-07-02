@@ -10,9 +10,9 @@ include 'view/admin/nav.php';
                     <tr>
                         <th>STT</th>
                         <th>Tài khoản</th>
-                        <th>Email</th>
+                        <th>Địa chỉEmail</th>
                         <th>Địa chỉ</th>
-                        <th>Role</th>
+                        <th>Vai Trò</th>
                         <th>Tác Vụ</th>
                     </tr>
                 </thead>
