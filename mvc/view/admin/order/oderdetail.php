@@ -13,7 +13,7 @@ include 'view/admin/nav.php';
 
 </html>
 <article>
-    <h1>Chi tiết đơn hàng</h1>
+    <h1>CTDH</h1>
     <div class="container-add">
         <?php foreach ($list_order as $order): extract($order);
             if ($dh_id == $_GET['dhid']) {
